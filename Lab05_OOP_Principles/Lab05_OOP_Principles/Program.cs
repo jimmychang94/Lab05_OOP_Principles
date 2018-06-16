@@ -11,6 +11,9 @@ namespace Lab05_OOP_Principles
             Proof();
         }
 
+        /// <summary>
+        /// This just tests that the classes inherit properties
+        /// </summary>
         static void Proof()
         {
             ChannelCatfish channelCatfish = new ChannelCatfish();
